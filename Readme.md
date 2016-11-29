@@ -1,1 +1,2 @@
-﻿![ОтчетAllure](ОтчетAllure.png) 
+﻿![ОтчетAllure](ОтчетAllure.png)
+![СкриншотAllure](СкриншотAllure.png)  
