@@ -1,0 +1,1 @@
+﻿![ОтчетAllure](ОтчетAllure.png) 
